@@ -1,0 +1,117 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    background-color: rgb(144, 144, 223);
+    width: 100%;
+    border:10px solid black;
+    
+}
+
+.content
+{
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+.topsection
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgsection
+{
+    margin-top: 100px;
+}
+
+.imgsection img
+{
+   border-radius: 70px;
+}
+
+.title
+{
+    margin-top: 350px;
+}
+
+.title h1
+{
+    font-size: 40px;
+    letter-spacing: 6px;
+    font-weight: bold;
+}
+
+.title h4
+{
+    text-align: end;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main h1
+{
+    font-size:60px ;
+    margin-bottom: 20px;
+}
+
+.main
+{
+    margin-top: 70px;
+}
+
+.main p
+{
+   font-size: 20px;
+   word-spacing: 1.2px;
+   line-height: 20px;
+}
+
+.list
+{
+    margin-top: 60px;
+}
+
+.list h1
+{
+    font-size: 30px;
+}
+
+.list ul
+{
+    margin-top: 30px;
+    line-height: 25px;
+    word-spacing: 1.3px;
+    margin-bottom: 20px;
+}
+
+.footer
+{
+    font-size: 17px;
+    text-align: end;
+}
+
+.message h1
+{
+    font-size: 30px;
+    text-decoration: underline;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.message
+{
+    max-width: 750px;
+    margin-bottom: 40px;
+}
+
+.message p
+{
+    line-height: 25px;
+    font-size: 16px;
+
+}
